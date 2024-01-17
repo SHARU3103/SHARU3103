@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sharayyu Asalkar
+- 👋 Hi, I’m Sharayu Asalkar
 - 👀 I’m currently working on how to get knowledge of coding  as per full stack developer
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me sharayuasalkar@gmail.com
