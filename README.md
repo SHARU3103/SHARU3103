@@ -2,7 +2,7 @@
 - 👀 I’m currently working on how to get knowledge of coding  as per full stack developer
 - 🌱 I’m currently learning Advance Java
 - 📫 How to reach me sharayuasalkar@gmail.com
-- 💬 Ask me about core java,SQL,Web Development,React Js
+- 💬 Ask me about core java,SQL,Web Development,React Js,Hibernate,JDBC
 
 
 <!---
